@@ -5,3 +5,4 @@
 这是master分支上的内容这是mergedemo分支上的内容
  mergedemo
  version1
+ version2
